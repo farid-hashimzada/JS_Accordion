@@ -52,7 +52,7 @@ body {
 }
 
 .accordion .content-container.active .answer {
-    height: 120px;
+    height: 105px;
 }
 
 .accordion .content-container.active .question {
